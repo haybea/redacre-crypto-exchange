@@ -22,7 +22,7 @@ To run the app, open your terminal and run the following
     $ copy .env.example .env
 ```
 ## .env file
-Here you can change the database connection string (DB_URL) and the Port (PORT) to serve the app. If you change the PORT, make sure, you follow the instructions to change the port on the frontend too.
+Here you can change the database connection string ```DB_URL``` and the Port ```PORT``` to serve the app. If you change the PORT, make sure, you follow the instructions to change the port on the frontend too.
 
 ## Run the application
 ```
